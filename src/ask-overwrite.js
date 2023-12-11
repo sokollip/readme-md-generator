@@ -11,7 +11,7 @@ const question = {
       value: false
     },
     {
-      name: 'Yes ',
+      name: 'Yes',
       value: true
     }
   ]
